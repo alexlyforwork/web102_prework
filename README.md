@@ -2,7 +2,7 @@
 
 Submitted by: **Alex Ly**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **3** hours spent in total
 
@@ -22,11 +22,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+https://youtu.be/7OL3KkImd0w
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Kap](https://getkap.co/) for macOS
+<!-- GIF created with -->
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -35,8 +35,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-I encountered some challenges regarding understanding the concepts to implement it correctly.
+I encountered some challenges in understanding the concepts and implementing them correctly. However, they all made sense after a while, and I can now adapt to them more easily.
 
 ## License
 
